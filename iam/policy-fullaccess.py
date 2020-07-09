@@ -26,4 +26,4 @@ def full_access(policyname,service):
         return False
     return True
 
-print(full_access("mitjantesti-ec2","ec2"))
+print(full_access("mitjantesti-s3","s3"))
